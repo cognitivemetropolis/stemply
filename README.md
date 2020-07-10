@@ -1,5 +1,5 @@
 # stemply
-stemply OS Version 1.02
+stemply OS Version 1.03
 
 *stemply* is simply STEM. It is the standard Raspbian OS Debian deployment with special software to keep kids safe on the Internet. You can learn all about it here: https://www.cognitivemetropolis.com/2019/08/28/meet-stemply/   *stemply* is a full desktop computer workstation with no ads, no viruses, no tracking, no malware, safe web filtering technology, advanced firewall protection, and peace of mind built-in. 
 
